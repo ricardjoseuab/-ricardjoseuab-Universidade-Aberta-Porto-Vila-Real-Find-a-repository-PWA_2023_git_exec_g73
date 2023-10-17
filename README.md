@@ -1,4 +1,5 @@
 Exercício com o Git - Grupo 3
+
 Definição das tarefas
 
 (g3) Alínea 1: Luís Bastos | 2302593@estudante.uab.pt
