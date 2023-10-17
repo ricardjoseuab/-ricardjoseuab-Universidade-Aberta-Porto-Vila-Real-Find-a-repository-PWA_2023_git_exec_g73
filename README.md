@@ -8,6 +8,6 @@ Definição das tarefas
 
 (g3) Alínea 3: Marco Clara | 2302597@estudante.uab.pt
 
-(g1) Alínea 4: André Costa | 2302571@estudante.uab.pt
+(g3) Alínea 4: André Costa | 2302571@estudante.uab.pt
 
-(g1) Alínea 5: WEBER MARCELO DE SOUZA | webersouza@gmail.com
+(g3) Alínea 5: WEBER MARCELO DE SOUZA | webersouza@gmail.com
