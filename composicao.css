@@ -1,1 +1,8 @@
- 
+.bloco2 {
+  width: 500px;
+  float: left;
+}
+
+.bloco3 {
+  margin-left: 700px;
+}
