@@ -1,1 +1,14 @@
- 
+.bloco1 {
+    /* 3.a) */
+    /*width: 200px;*/
+    width: 50%;
+
+    /* 3.b) */
+    float: left;
+}
+
+.bloco2 {
+    /* 3.c) */
+    /*margin-left: 200px;*/
+    margin-left: 50%;
+}
