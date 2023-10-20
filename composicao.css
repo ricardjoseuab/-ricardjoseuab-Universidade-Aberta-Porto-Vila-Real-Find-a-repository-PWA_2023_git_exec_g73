@@ -1,1 +1,32 @@
- 
+/*Altere o tipo de letra do documento para Georgia com tamanho 20px.*/
+body {
+    font-family: Georgia, serif;
+    font-size: 20px;
+}
+
+/*Elimine as margens dos títulos h1 e h2.*/
+h1, h2 {
+    margin: 0;
+}
+
+/*Altere o espaçamento entre linhas dos parágrafos para 1.5em. */
+p {
+    line-height: 1.5em;
+}
+
+/* Altera as cores de fundo dos elementos com as classes específicas */
+.base {
+    background-color: #eeeeee; /* Cor hexa #eee, equivalente a eeeeee */
+}
+
+.bloco1 {
+    background-color: orange;
+}
+
+.bloco2 {
+    background-color: green;
+}
+
+.bloco3 {
+    background-color: red;
+}
